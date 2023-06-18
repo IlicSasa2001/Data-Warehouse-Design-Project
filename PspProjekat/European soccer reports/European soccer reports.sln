@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "European soccer reports", "European soccer reports\European soccer reports.rptproj", "{CB98BDF6-8346-4597-88B6-458F33BD0D19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CB98BDF6-8346-4597-88B6-458F33BD0D19}.Debug|Default.ActiveCfg = Debug
+		{CB98BDF6-8346-4597-88B6-458F33BD0D19}.Debug|Default.Build.0 = Debug
+		{CB98BDF6-8346-4597-88B6-458F33BD0D19}.Debug|Default.Deploy.0 = Debug
+		{CB98BDF6-8346-4597-88B6-458F33BD0D19}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{CB98BDF6-8346-4597-88B6-458F33BD0D19}.DebugLocal|Default.Build.0 = DebugLocal
+		{CB98BDF6-8346-4597-88B6-458F33BD0D19}.Release|Default.ActiveCfg = Release
+		{CB98BDF6-8346-4597-88B6-458F33BD0D19}.Release|Default.Build.0 = Release
+		{CB98BDF6-8346-4597-88B6-458F33BD0D19}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F64228C-E5AA-40B3-8C5F-3A5479798BA5}
+	EndGlobalSection
+EndGlobal

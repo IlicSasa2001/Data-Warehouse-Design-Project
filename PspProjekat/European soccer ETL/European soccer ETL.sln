@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "European soccer ETL", "European soccer ETL\European soccer ETL.dtproj", "{7AD9B2DE-D4BE-4C6C-934C-E26F560C2E1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AD9B2DE-D4BE-4C6C-934C-E26F560C2E1F}.Development|Default.ActiveCfg = Development
+		{7AD9B2DE-D4BE-4C6C-934C-E26F560C2E1F}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0255545E-0F88-4727-95EC-FBE2C3F46AF5}
+	EndGlobalSection
+EndGlobal
